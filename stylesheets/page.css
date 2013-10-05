@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Chivo';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Chivo Black'), local('Chivo-Black'), url(nw.woff) format('woff');
+}
