@@ -63,6 +63,31 @@ a:hover {
   color: #c5000c;
 }
 
+.projectheader{
+  font-size: 20px;
+}
+.projects li{
+  list-style-type: square;
+}
+
+.projectintro{
+  margin-left: 20px;
+}
+
+.projectname {
+  color: blue;
+  text-decoration: underline;
+}
+
+.projecttimeline{
+  color: green;
+  font-size: 10px;
+}
+
+.projectstate{
+  color: red;
+}
+
 header {
   padding-top: 35px;
   padding-bottom: 25px;
